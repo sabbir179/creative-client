@@ -1,0 +1,6 @@
+.container{
+    height: 700px;
+    weight: auto;
+    background-color: #FBD062;
+    clip-path: polygon(100% 0, 100% 77%, 0 100%, 0 75%, 0 0);
+}
