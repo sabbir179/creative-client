@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Feedback.css';
 const Feedback = (props) => {
     const {img,name,designation ,comment} = props.feedback;
     return (
@@ -12,7 +12,7 @@ const Feedback = (props) => {
                     </div>
                 </div>
             <div className="card-body">
-                <p className="card-text ">{comment}</p>
+                <p className="card-text "> <small> {comment} </small> </p>
             </div>
             
             
