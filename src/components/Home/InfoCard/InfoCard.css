@@ -1,0 +1,8 @@
+#service-card:hover{
+    width: 200px;
+    height: 200px;
+    
+    padding-top: 20px;
+    background-color: #FBD062;
+    box-shadow: 5px 5px 15px 5px lightgray;
+   }

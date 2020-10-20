@@ -8,7 +8,7 @@ const Navbar = () => {
         
                 <nav class="navbar navbar-expand-lg navbar-light ">
                     <a class="navbar-brand" href="#">
-                    <img src={logo} width="100" height="30" alt="" loading="lazy"/>
+                        <img src={logo} width="100" height="30" alt="" loading="lazy"/>
                     
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
