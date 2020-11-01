@@ -24,7 +24,9 @@ const Contact = () => {
                             <button type="submit" className="btn common-btn">Send</button>
                             </form>
                      </div>   
-                
+                    
+                        {/* <p> copyright Orange labs 2020</p> */}
+                    
         </div>
 
        

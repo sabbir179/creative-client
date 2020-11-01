@@ -1,0 +1,56 @@
+.parentForm{
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    margin-top: 30px;
+}
+@media only screen and (max-width: 479px){
+    .parentForm{
+        width: 250px;
+        height: 250px;
+        margin: 0 auto;
+        border: 1px solid gray
+    }
+
+   
+}
+.btnStyle{
+    width: 93%;
+    height: 41px;
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    margin-left: 15px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+
+}
+@media only screen and (max-width: 479px){
+    .btnStyle{
+        width: 90%;
+        height: 35px;
+        border: 1px solid black;
+        border-radius: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        outline: none;
+    
+    }
+    h6{
+        font-size:8px
+    }
+}
+.btnStyle img{
+    height: 25px;
+    margin-right: 10px;
+}
+button{
+    border: none;
+    outline: none;
+    background: none;
+}
+.logo1{
+    width: 250px;
+    height: 80px;
+}
